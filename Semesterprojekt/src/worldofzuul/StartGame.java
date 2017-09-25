@@ -13,8 +13,5 @@ public class StartGame {
     public static void main(String[] args) {
         Game game = new Game();
         game.play();
-        
-        //github test
-        //test 2
     }
 }
