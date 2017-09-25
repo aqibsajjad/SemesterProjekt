@@ -15,5 +15,6 @@ public class StartGame {
         game.play();
         
         //ny test
+        //test igen
     }
 }
