@@ -15,5 +15,6 @@ public class StartGame {
         game.play();
         
         //github test
+        //test 2
     }
 }
