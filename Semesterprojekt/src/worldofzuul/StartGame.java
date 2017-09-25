@@ -17,5 +17,6 @@ public class StartGame {
         //ny test
         //test igen
         // Pottemuld
+        // ftt test
     }
 }
